@@ -86,8 +86,7 @@ namespace SockServerWPF
         }
 
         //private string ExecuteCommand(string command)
-        //{
- 
+        //{ 
         //}
 
         private string DIRALL()
